@@ -1,4 +1,5 @@
 new file test~
+add new branch
 
 1
 2
@@ -9,7 +10,5 @@ add 4
 maybe 5
 
 pushed in new branch
-
-and a new branch
 
 end
